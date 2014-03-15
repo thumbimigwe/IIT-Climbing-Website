@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f44a27c-4f89-4346-a63a-347a3bff2b21" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <list id="9aae4fd5-850f-4033-ba26-8c332e4d1605" name="Failed commit: Default" comment="Changed up the index&#10;" />
     <ignored path="Climbing website.iws" />
@@ -67,31 +67,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="21" selection-start="1128" selection-end="1128" vertical-scroll-proportion="-13.75" vertical-offset="225" max-vertical-offset="2445">
+            <state line="58" column="144" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.5527638" vertical-offset="540" max-vertical-offset="2445">
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1088" column="67" selection-start="31255" selection-end="31260" vertical-scroll-proportion="-5.6666665" vertical-offset="16167" max-vertical-offset="21330">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="v8.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/ie/v8.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="14" selection-start="888" selection-end="893" vertical-scroll-proportion="0.33278418" vertical-offset="278" max-vertical-offset="1290">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -115,9 +97,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/README.txt" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/ie/v8.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -525,7 +507,7 @@
       <created>1394852881461</created>
       <updated>1394852881461</updated>
       <workItem from="1394852886174" duration="5837000" />
-      <workItem from="1394912536754" duration="4544000" />
+      <workItem from="1394912536754" duration="4845000" />
     </task>
     <task id="LOCAL-00001" summary="Changed up the readme">
       <created>1394857046068</created>
@@ -535,7 +517,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10381000" />
+    <option name="totallyTimeSpent" value="10682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="749" extended-state="0" />
@@ -766,15 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="21" selection-start="1128" selection-end="1128" vertical-scroll-proportion="-13.75" vertical-offset="225" max-vertical-offset="2445">
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/ie/backgroundsize.min.htc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="33" selection-start="179" selection-end="181" vertical-scroll-proportion="0.07575758" vertical-offset="0" max-vertical-offset="594">
@@ -786,15 +759,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="57" selection-start="135" selection-end="137" vertical-scroll-proportion="0.07575758" vertical-offset="0" max-vertical-offset="594">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1088" column="67" selection-start="31255" selection-end="31260" vertical-scroll-proportion="-5.6666665" vertical-offset="16167" max-vertical-offset="21330">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,6 +768,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="14" selection-start="888" selection-end="893" vertical-scroll-proportion="0.33278418" vertical-offset="278" max-vertical-offset="1290">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1088" column="67" selection-start="31255" selection-end="31260" vertical-scroll-proportion="0.25757575" vertical-offset="16167" max-vertical-offset="21330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="144" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.5527638" vertical-offset="540" max-vertical-offset="2445">
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
