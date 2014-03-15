@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f44a27c-4f89-4346-a63a-347a3bff2b21" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/one.jpg" afterPath="$PROJECT_DIR$/images/one.jpg" />
     </list>
     <list id="9aae4fd5-850f-4033-ba26-8c332e4d1605" name="Failed commit: Default" comment="Changed up the index&#10;" />
     <ignored path="Climbing website.iws" />
@@ -507,7 +507,7 @@
       <created>1394852881461</created>
       <updated>1394852881461</updated>
       <workItem from="1394852886174" duration="5837000" />
-      <workItem from="1394912536754" duration="4845000" />
+      <workItem from="1394912536754" duration="5441000" />
     </task>
     <task id="LOCAL-00001" summary="Changed up the readme">
       <created>1394857046068</created>
@@ -517,7 +517,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10682000" />
+    <option name="totallyTimeSpent" value="11278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="749" extended-state="0" />
