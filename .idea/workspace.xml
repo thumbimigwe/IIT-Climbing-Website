@@ -70,7 +70,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="114" selection-start="4948" selection-end="4948" vertical-scroll-proportion="0.52261305" vertical-offset="1863" max-vertical-offset="2460">
+            <state line="146" column="85" selection-start="5064" selection-end="5064" vertical-scroll-proportion="0.5477387" vertical-offset="1863" max-vertical-offset="2475">
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -450,7 +450,7 @@
       <updated>1394852881461</updated>
       <workItem from="1394852886174" duration="5837000" />
       <workItem from="1394912536754" duration="5444000" />
-      <workItem from="1394978946925" duration="1266000" />
+      <workItem from="1394978946925" duration="1353000" />
     </task>
     <task id="LOCAL-00001" summary="Changed up the readme">
       <created>1394857046068</created>
@@ -460,7 +460,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12547000" />
+    <option name="totallyTimeSpent" value="12634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="749" extended-state="0" />
@@ -732,7 +732,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="114" selection-start="4948" selection-end="4948" vertical-scroll-proportion="0.52261305" vertical-offset="1863" max-vertical-offset="2460">
+        <state line="146" column="85" selection-start="5064" selection-end="5064" vertical-scroll-proportion="0.5477387" vertical-offset="1863" max-vertical-offset="2475">
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
