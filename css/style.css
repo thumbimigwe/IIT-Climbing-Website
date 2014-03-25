@@ -594,7 +594,83 @@
 				.dark .button.style2.down {
 					background-image: url('images/dark-arrow.svg');
 				}
-		
+
+
+
+
+
+
+/*********************************************************************************/
+/* Social media Icons                                                            */
+/* http://bradsknutson.com/blog/css3-rollover-social-media-icons/                */
+/* Licensed under the SIL OFL 1.1 (font), MIT (CSS)                              */
+/*********************************************************************************/
+
+
+.social-slide {
+    background-image: url('path/to/image.png');
+    height: 48px;
+    width: 48px;
+    margin: 10px;
+    float: left;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+    -ms-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+}
+.social-slide:hover {
+    background-position: 0px -48px;
+    box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+}
+
+
+.social-slide:hover {
+    background-position: 0px -48px;
+    box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+}
+.twitter-hover {
+    background-image: url('images/twitter-hover.png');
+}
+.facebook-hover {
+    background-image: url('images/facebook-hover.png');
+}
+.google-hover {
+    background-image: url('images/google-hover.png');
+}
+.pinterest-hover {
+    background-image: url('images/pinterest-hover.png');
+}
+.linkedin-hover {
+    background-image: url('images/linkedin-hover.png');
+}
+.tumblr-hover {
+    background-image: url('images/tumblr-hover.png');
+}
+.reddit-hover {
+    background-image: url('images/reddit-hover.png');
+}
+.instagram-hover {
+    background-image: url('images/instagram-hover.png');
+}
+.stumbleupon-hover {
+    background-image: url('images/stumbleupon-hover.png');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*********************************************************************************/
 /* Icons                                                                         */
 /* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
@@ -1109,11 +1185,9 @@
 /*********************************************************************************/
 
 	#two {
-		background: url('images/overlay.png'), url('../images/two.jpg');
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
-	}
+        background-size: 256px 256px, cover;
+        background: url('images/overlay.png') url('../images/two.jpg') fixed, fixed top left, center center;
+    }
 
 /*********************************************************************************/
 /* Work                                                                          */
