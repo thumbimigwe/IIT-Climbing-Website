@@ -609,6 +609,10 @@
 
 .social-slide {
     background-image: url('path/to/image.png');
+    position: relative;
+    top:80%;
+    left:38%;
+    text-align: center;
     height: 48px;
     width: 48px;
     margin: 10px;
